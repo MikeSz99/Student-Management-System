@@ -3,4 +3,6 @@ Java Spring application providing ability to add some user data, store it in the
 
 
                                               ====== Before you run an application  ====== 
- 1.In src/main/resources/templates check application.properties file. Enter the name of the database you are going to use.![2022-07-16](https://user-images.githubusercontent.com/97959151/179365809-4774d3f7-920c-4639-aa1c-00cb1c8fa02a.png)
+ 1.In src/main/resources/templates check application.properties file. Enter the name of the database you are going to use.
+ 
+ ![app](https://user-images.githubusercontent.com/97959151/179365875-25d184b0-af1e-43bb-81b2-ea90fc9ac5d0.png)
